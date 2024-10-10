@@ -1,0 +1,14 @@
+/mnt/c/Users/maxis/govno/bin/Debug/net8.0/govno
+/mnt/c/Users/maxis/govno/bin/Debug/net8.0/govno.deps.json
+/mnt/c/Users/maxis/govno/bin/Debug/net8.0/govno.runtimeconfig.json
+/mnt/c/Users/maxis/govno/bin/Debug/net8.0/govno.dll
+/mnt/c/Users/maxis/govno/bin/Debug/net8.0/govno.pdb
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.AssemblyInfoInputs.cache
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.AssemblyInfo.cs
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.csproj.CoreCompileInputs.cache
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.dll
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/refint/govno.dll
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.pdb
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/govno.genruntimeconfig.cache
+/mnt/c/Users/maxis/govno/obj/Debug/net8.0/ref/govno.dll
